@@ -156,10 +156,10 @@ Each project follows an end-to-end pipeline:
 ## ⭐ If you like these projects, feel free to connect and collaborate!
 
 🔗 **Kaggle:** https://www.kaggle.com/aman2626786
-🔗 **LinkedIn:** linkedin.com/in/aman-sharma-545b9a39b  
+🔗 **LinkedIn:** https://www.linkedin.com/in/aman-sharma-545b9a39b  
 
 ---
 
 **Thank You for Visiting! 🚀**
-"""
+
 
